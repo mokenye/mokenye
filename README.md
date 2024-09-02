@@ -1,4 +1,4 @@
-Hi, I’m Mokenye. I'm interested in Full-stack development in JS, Typescript & Python 
+Hi, I’m Mokenye. I'm interested in Full-stack app development in JS, Typescript & Python 
 🌱 I’m currently learning ReactJS and looking to collaborate on open source projects
 
 <!---
