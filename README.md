@@ -3,7 +3,7 @@
 Full-stack developer building web applications with JavaScript, TypeScript, and Python.
 
 ## Tech Stack
-**Current:** React, Node.js, Express, PostgreSQL, MongoDB, Docker
+**Current:** React, Node.js, Express, PostgreSQL, MongoDB, Docker  
 **Learning:** Go, Kubernetes, AWS
 
 ## Featured Projects
