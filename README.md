@@ -1,12 +1,19 @@
-Hi, I’m Mokenye
+# Hi, I'm David!
 
-Interested in Full-stack app development in JS, Typescript & Python
+Full-stack developer building web applications with JavaScript, TypeScript, and Python.
 
-Currently learning ReactJS; soon Go, K8s & AWS
+## Tech Stack
+**Current:** React, Node.js, Express, PostgreSQL, MongoDB, Docker
+**Learning:** Go, Kubernetes, AWS
 
-Looking to collaborate on open source projects
+## Featured Projects
+- **[Nelel](https://mokenye.github.io/nelel./)** - Intelligent retirement & savings companion
+- **[Sydney Studio](https://sydney-tracker-react.vercel.app/)** - YouTube Playlist View Tracker
 
-<!---
-mokenye/mokenye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Open to
+- Full-stack/Frontend/Backend SWE roles
+- Open source collaborations
+- Interesting projects and challenges
+
+## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/mokenye/) | [Portfolio](https://github.com/mokenye) 
