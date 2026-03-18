@@ -7,7 +7,8 @@ Full-stack developer building web applications with JavaScript, TypeScript, and 
 **Learning:** Go, Kubernetes, AWS
 
 ## Featured Projects
-- **[Nelel](https://mokenye.github.io/nelel./)** - Intelligent retirement & savings companion
+- **[Plama](https://plama.vercel.app/)** - Collaborative Kanban Board
+- **[Nelel](https://mokenye.github.io/nelel./)** - Intelligent Retirement & Savings Companion
 - **[Sydney Studio](https://sydney-tracker-react.vercel.app/)** - YouTube Playlist View Tracker
 
 ## Open to
