@@ -4,7 +4,7 @@ Full-stack developer building web applications with JavaScript, TypeScript, and 
 
 ## Tech Stack
 **Current:** React, Node.js, Express, PostgreSQL, MongoDB, Docker  
-**Learning:** System Design & Architecture, Go, Kubernetes, AWS
+**Learning:** System Design & Architecture, Go, Kubernetes, AWS 🍃
 
 ## Featured Projects
 - **[Plama](https://plama.vercel.app/)** - Collaborative Kanban Board
