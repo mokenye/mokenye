@@ -8,7 +8,7 @@ Full-stack developer building web applications with JavaScript, TypeScript, and 
 
 ## Featured Projects
 - **[Plama](https://plama.vercel.app/)** - Collaborative Kanban Board
-- **[Nelel](https://mokenye.github.io/nelel./)** - Intelligent Retirement & Savings Companion
+- **[Nelel](https://mokenye.github.io/nel3l/)** - Intelligent Retirement & Savings Companion
 - **[Sydney Studio](https://sydney-tracker-react.vercel.app/)** - YouTube Playlist View Tracker
 
 ## Open to
