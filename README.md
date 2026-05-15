@@ -8,7 +8,7 @@ Full-stack engineer building with TypeScript, Node.js, and React.
 
 ## Featured Projects
 - **[Plama](https://plama.vercel.app)**: Real-time collaborative Kanban board · WebSocket sync under 1ms (p95) · Prometheus / Grafana / Loki observability
-- **[Nelel](https://mokenye.github.io/nel3l)**: Intelligent Retirement & Savings Companion · Goal-projection engine · Live 2025 US tax calculations
+- **[Nelel](https://nelel.is-cool.dev/)**: Intelligent Retirement & Savings Companion · Goal-projection engine · Live 2025 US tax calculations
 - **[Sydney Studio](https://sydney-studio.vercel.app)**: YouTube playlist view tracker built for a client · Eliminated 3+ hrs/week of manual aggregation
 
 ## Open to
